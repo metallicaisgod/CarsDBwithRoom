@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cars DB with Room</string>
+    <string name="add_dollar_sign">%1$s $</string>
+</resources>

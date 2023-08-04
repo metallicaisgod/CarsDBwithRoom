@@ -1,4 +1,32 @@
 <resources>
     <string name="app_name">Cars DB with Room</string>
     <string name="add_dollar_sign">%1$s $</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="car_deleted"> Car %1$s %2$s deleted</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="year">year:</string>
+    <string name="_2008">2008</string>
+    <string name="price">price:</string>
+    <string name="_20000">20000</string>
+    <string name="power">power:</string>
+    <string name="_150">150</string>
+    <string name="capacity">Capacity:</string>
+    <string name="_1400">1400</string>
+    <string name="transmission">transmission:</string>
+    <string name="mt">MT</string>
+    <string name="drive">drive:</string>
+    <string name="front">FRONT</string>
+    <string name="filter_by">Filter by</string>
+    <string name="year_">Year</string>
+    <string name="price_">Price</string>
+    <string name="power_">Power</string>
+    <string name="engine_capacity">Engine capacity</string>
+    <string name="transmission_">Transmission:</string>
+    <string name="drive_">Drive:</string>
+    <string name="save">Save</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="add_car_button">Add Car Button</string>
 </resources>
